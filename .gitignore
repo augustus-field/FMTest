@@ -15,6 +15,7 @@ local.properties
 .myeclipse
 *.log
 *.log.*
+logs/*
 # External tool builders
 .externalToolBuilders/
 
