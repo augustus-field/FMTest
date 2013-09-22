@@ -14,5 +14,6 @@ public class NullFor {
 			obj.toString();
 		}
 		
+		
 	}
 }

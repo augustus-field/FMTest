@@ -1,0 +1,12 @@
+package misc;
+
+public class AnsiStringTest {
+
+	public static void main(String[] args) {
+		String input="\u7279\u522B\u6295\u8A3B,\u7279\u522B\u6295\u6CE8,\u7279\u5225\u6295\u6CE8,\u7279\u5B9A,\u54EA\u4E00,\u54EA\u652F,\u70B9\u7403,\u52A0\u65F6,\u7F5A\u724C,\u7403\u5458\u8FDB\u7403,\u8865\u65F6,\u4E0B\u534A\u573A,\u5355\u4E00,\u68A6\u5E7B\u5BF9\u5792,WINNER,Winner,\u603B\u51A0\u519B,\u4F18\u80DC\u8005,15\u5206\u949F,MINUTES,\u664B\u7EA7,next round";
+		System.out.println(input);
+		input="\u70B9\u7403,\u52A0\u65F6,\u89D2\u7403,\u5927\u76D8,\u5C0F\u76D8,\u5148\u5F00\u7403";
+		System.out.println(input);
+	}
+
+}
